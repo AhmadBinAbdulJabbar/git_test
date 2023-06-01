@@ -1,2 +1,2 @@
-Adding changes to file for git add . step
+Adding changes to file for learing git
 practicing git and github

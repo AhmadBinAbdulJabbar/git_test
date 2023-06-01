@@ -1,4 +1,4 @@
 # git_test
 My first Github repo!
 Hello Ahmad!
-Are you tring to learn git and github?
+learning git and github in odin project
