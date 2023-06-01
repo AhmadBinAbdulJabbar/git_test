@@ -1,1 +1,2 @@
 Adding changes to file for git add . step
+practicing git and github
